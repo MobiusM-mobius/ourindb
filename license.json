@@ -2,18 +2,12 @@
   "version": 1,
   "numbers": {
     "6288704756515": {
-      "device": null,
-      "activatedAt": 1793488374,
-      "lastSeen": 1793488374,
+      "device": "2efa5c737035ee4f181934f94f761441b8df47a2c99fe0405fb047f4753511de",
+      "activatedAt": 1793488450,
+      "lastSeen": 1793488450,
       "revoked": false,
       "note": ""
     }
   },
-  "challenges": {
-    "6288704756515": {
-      "hash": "3718a8ec7b819b29beed6632a6cdb3268140d73712436176bff3ee2351db7e0b",
-      "expiresAt": 1793489048,
-      "issuedBy": "ROOTDEVELOPER000001"
-    }
-  }
+  "challenges": {}
 }
