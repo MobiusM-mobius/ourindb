@@ -2,11 +2,11 @@
   "version": 1,
   "numbers": {
     "6288704756515": {
-      "device": "c55466cd693794987d090fb410138d53dbf080e00b3467db649e1cc7715afafe",
+      "device": null,
       "activatedAt": 1793488259,
       "lastSeen": 1793488259,
-      "revoked": false,
-      "note": "flow test done"
+      "revoked": true,
+      "note": "negative boot test"
     }
   },
   "challenges": {}
