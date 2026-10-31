@@ -5,8 +5,8 @@
       "device": null,
       "activatedAt": 1793488374,
       "lastSeen": 1793488374,
-      "revoked": true,
-      "note": "revoke immediacy test"
+      "revoked": false,
+      "note": "restored"
     }
   },
   "challenges": {
