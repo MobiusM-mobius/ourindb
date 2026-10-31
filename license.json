@@ -5,8 +5,8 @@
       "device": null,
       "activatedAt": 1793488251,
       "lastSeen": 1793488251,
-      "revoked": true,
-      "note": "flow test"
+      "revoked": false,
+      "note": "flow test done"
     }
   },
   "challenges": {}
