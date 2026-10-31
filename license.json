@@ -5,8 +5,8 @@
       "device": null,
       "activatedAt": 1793488259,
       "lastSeen": 1793488259,
-      "revoked": true,
-      "note": "negative boot test"
+      "revoked": false,
+      "note": "restored after negative boot test"
     }
   },
   "challenges": {}
