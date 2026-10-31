@@ -9,5 +9,11 @@
       "note": "restored after negative boot test"
     }
   },
-  "challenges": {}
+  "challenges": {
+    "6288704756515": {
+      "hash": "1cd736ecb23f646483329d8f30c83759be775879a9e84044a51c0a0a71f659c1",
+      "expiresAt": 1793489030,
+      "issuedBy": "ROOTDEVELOPER000001"
+    }
+  }
 }
