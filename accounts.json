@@ -1,31 +1,11 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T15:24:29.324Z",
+  "updatedAt": "2026-10-31T15:24:33.668Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
     "bannerType": "",
-    "slots": [
-      {
-        "id": "SBC4GRTKK38YB96EJ37GF",
-        "number": "6280000000099",
-        "label": "token-probe",
-        "ownerId": "ROOTCREATOR00000001",
-        "owner": {
-          "id": "ROOTCREATOR00000001",
-          "username": "creator",
-          "displayName": "Creator",
-          "role": "creator"
-        },
-        "addedById": "ROOTCREATOR00000001",
-        "addedBy": {
-          "id": "ROOTCREATOR00000001",
-          "username": "creator",
-          "role": "creator"
-        },
-        "createdAt": "2026-10-31T15:24:29.324Z"
-      }
-    ]
+    "slots": []
   },
   "accounts": []
 }
