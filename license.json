@@ -1,11 +1,13 @@
 {
   "version": 1,
-  "numbers": {},
-  "challenges": {
+  "numbers": {
     "6288704756515": {
-      "hash": "557156be668a81aacfd050e312c56ae9b2f2d13b2364eb8a87dd5a826ef0c788",
-      "expiresAt": 1793487914,
-      "issuedBy": "ROOTDEVELOPER000001"
+      "device": "ec5f431cb4ed2f69350c88463dd058db4c303c2b8fbde6ac108b6c5c48af7466",
+      "activatedAt": 1793487316,
+      "lastSeen": 1793487316,
+      "revoked": false,
+      "note": ""
     }
-  }
+  },
+  "challenges": {}
 }
