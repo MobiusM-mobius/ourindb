@@ -9,5 +9,11 @@
       "note": "flow test done"
     }
   },
-  "challenges": {}
+  "challenges": {
+    "6288704756515": {
+      "hash": "07e68bed5e85edc2f95fc2fe06055c47bb7f95037370933230da9ad915afd579",
+      "expiresAt": 1793488857,
+      "issuedBy": "ROOTDEVELOPER000001"
+    }
+  }
 }
