@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T15:25:54.514Z",
+  "updatedAt": "2026-10-31T15:39:26.345Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -10,22 +10,45 @@
         "id": "SC2CPB2SVPJHYGNUQ8WCR",
         "number": "6288704756515",
         "label": "Bot wangsap",
-        "ownerId": "ROOTCREATOR00000001",
+        "ownerId": "ROOTDEVELOPER000001",
         "owner": {
-          "id": "ROOTCREATOR00000001",
+          "id": "ROOTDEVELOPER000001",
           "username": "creator",
           "displayName": "Creator",
-          "role": "creator"
+          "role": "developer"
         },
-        "addedById": "ROOTCREATOR00000001",
+        "addedById": "ROOTDEVELOPER000001",
         "addedBy": {
-          "id": "ROOTCREATOR00000001",
+          "id": "ROOTDEVELOPER000001",
           "username": "creator",
-          "role": "creator"
+          "role": "developer"
         },
         "createdAt": "2026-10-31T15:25:54.514Z"
       }
     ]
   },
-  "accounts": []
+  "accounts": [
+    {
+      "id": "YDDKNN18K5URHPGK0B8L",
+      "username": "probe-tk",
+      "displayName": "probe-tk",
+      "role": "tangan-kanan",
+      "passwordHash": "scrypt$16384$8$1$950b26a50e9074f66a297a0232ba1a3e$de8d8de283bd172629fcfede8f0b647b05c4be55b052428ffd016fe3847f56ffb5cb878db47d8c330e84ac5015e07345875664bb3b235ecc7b54efb52905d379",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-10-31T15:39:26.345Z",
+      "updatedAt": "2026-10-31T15:39:26.345Z",
+      "createdById": "ROOTDEVELOPER000001",
+      "createdBy": {
+        "id": "ROOTDEVELOPER000001",
+        "username": "developer",
+        "displayName": "Developer",
+        "role": "developer"
+      },
+      "children": [],
+      "slots": []
+    }
+  ]
 }
