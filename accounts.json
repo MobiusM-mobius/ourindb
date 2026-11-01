@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T13:04:18.048Z",
+  "updatedAt": "2026-11-01T13:04:30.929Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -116,7 +116,7 @@
     {
       "id": "LW6X3UZF1WMY2DATDCNU",
       "username": "AL53RUPU7",
-      "displayName": "AL53",
+      "displayName": "ALI",
       "role": "moderator",
       "passwordHash": "scrypt$16384$8$1$7931d2267b08597ddedd28473d703ec1$36fb169ecb736be761e745b0600051acf7fe2fdc9510b4cd50386fa152b91afabfae96ac5c3c7635b672aca353a30848df144dfbe60434b8bb83158292a37908",
       "status": "active",
@@ -124,7 +124,7 @@
       "bannerUrl": "/uploads/banners/LW6X3UZF1WMY2DATDCNU-rmts5h.mp4",
       "bannerType": "video",
       "createdAt": "2026-11-01T11:46:14.171Z",
-      "updatedAt": "2026-11-01T13:04:18.048Z",
+      "updatedAt": "2026-11-01T13:04:30.929Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
