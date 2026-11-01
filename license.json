@@ -7,13 +7,14 @@
       "lastSeen": 1793488456,
       "revoked": false,
       "note": "restored after test"
+    },
+    "6285847787578": {
+      "device": "12b55c6ed5264dec8da2433c7e9d85bf0399580616d22891680cbf268b7f47be",
+      "activatedAt": 1793513982,
+      "lastSeen": 1793513982,
+      "revoked": false,
+      "note": ""
     }
   },
-  "challenges": {
-    "6285847787578": {
-      "hash": "e0bbc3dbc7527572f477340e13c6bf95ecf05e034684a15a4e37be54c5cdb5d2",
-      "expiresAt": 1793514558,
-      "issuedBy": "ROOTDEVELOPER000001"
-    }
-  }
+  "challenges": {}
 }
