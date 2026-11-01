@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T13:11:04.321Z",
+  "updatedAt": "2026-11-01T13:25:09.384Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -146,7 +146,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T11:46:55.822Z",
-      "updatedAt": "2026-11-01T13:11:04.321Z",
+      "updatedAt": "2026-11-01T13:25:09.384Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -155,27 +155,7 @@
         "role": "developer"
       },
       "children": [],
-      "slots": [
-        {
-          "id": "SHWJY6QD8CWWAS0WJM3Q3",
-          "number": "6285182375101",
-          "label": "Nokos",
-          "ownerId": "2MMNPJY45H8NJAP5RBL5",
-          "owner": {
-            "id": "2MMNPJY45H8NJAP5RBL5",
-            "username": "ANDRA",
-            "displayName": "ANDRA",
-            "role": "partner"
-          },
-          "addedById": "2MMNPJY45H8NJAP5RBL5",
-          "addedBy": {
-            "id": "2MMNPJY45H8NJAP5RBL5",
-            "username": "ANDRA",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-01T13:11:04.321Z"
-        }
-      ]
+      "slots": []
     },
     {
       "id": "4544JDA8V1SU184GFD5X",
