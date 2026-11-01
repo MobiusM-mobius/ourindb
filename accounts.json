@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T14:39:54.963Z",
+  "updatedAt": "2026-11-01T14:40:27.025Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -307,7 +307,7 @@
     {
       "id": "NFWLCJCRQU68N1YUTUWK",
       "username": "malikganteng",
-      "displayName": "malikganteng",
+      "displayName": "MaᤨlikTzᤨy",
       "role": "moderator",
       "passwordHash": "scrypt$16384$8$1$0939dec880f91c398db3a4959c8dbf1c$ad961f75dfa9c61e24e2f688e7f3f3ca29e71789f8b53d62ab5253b0be74ac02fd8aa30bec0f0701634e3fb861ee8928bd0af8bfede0881c2f3efd0af270a014",
       "status": "active",
@@ -315,7 +315,7 @@
       "bannerUrl": "/uploads/banners/NFWLCJCRQU68N1YUTUWK-fu84be.webp",
       "bannerType": "image",
       "createdAt": "2026-11-01T14:37:45.848Z",
-      "updatedAt": "2026-11-01T14:39:54.963Z",
+      "updatedAt": "2026-11-01T14:40:27.025Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
