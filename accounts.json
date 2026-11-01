@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T15:39:26.345Z",
+  "updatedAt": "2026-11-01T05:58:08.286Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -27,5 +27,28 @@
       }
     ]
   },
-  "accounts": []
+  "accounts": [
+    {
+      "id": "G990P9NDUCBNP3WYNAZG",
+      "username": "mobius",
+      "displayName": "mobius",
+      "role": "staff",
+      "passwordHash": "scrypt$16384$8$1$55a14d1ea06e6dc9b7c9e1abaf31cec4$6438482b205b2eb2948233150b510556fa1e232009e0ec728bed4545053532f82d352ae880c259ec0f2491767ffa1abb456fa330d41ba3cbd0ac79ced214aaee",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-11-01T05:58:08.286Z",
+      "updatedAt": "2026-11-01T05:58:08.286Z",
+      "createdById": "ROOTDEVELOPER000001",
+      "createdBy": {
+        "id": "ROOTDEVELOPER000001",
+        "username": "developer",
+        "displayName": "Developer",
+        "role": "developer"
+      },
+      "children": [],
+      "slots": []
+    }
+  ]
 }
