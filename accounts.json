@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T10:40:45.538Z",
+  "updatedAt": "2026-11-01T11:41:03.785Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -81,6 +81,28 @@
       "bannerType": "",
       "createdAt": "2026-11-01T10:40:45.538Z",
       "updatedAt": "2026-11-01T10:40:45.538Z",
+      "createdById": "ROOTDEVELOPER000001",
+      "createdBy": {
+        "id": "ROOTDEVELOPER000001",
+        "username": "ajidev",
+        "displayName": "Developer",
+        "role": "developer"
+      },
+      "children": [],
+      "slots": []
+    },
+    {
+      "id": "1Q56X3W7VT1RK6DKZQJ6",
+      "username": "nopal",
+      "displayName": "Nopal partner",
+      "role": "partner",
+      "passwordHash": "scrypt$16384$8$1$cff674a4611b9c07f752692979954ccb$1c51fe6f40d76858350bbbf905c9ac588c15db6157e41ba107f8fa338cf7ac75399e872cb4a31ac20fb17a7d07b4ed51c7bcaab826f5195a4b3c5692e17e61e4",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-11-01T11:41:03.785Z",
+      "updatedAt": "2026-11-01T11:41:03.785Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
