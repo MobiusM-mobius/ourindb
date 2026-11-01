@@ -9,5 +9,11 @@
       "note": "restored after test"
     }
   },
-  "challenges": {}
+  "challenges": {
+    "6285847787578": {
+      "hash": "e0bbc3dbc7527572f477340e13c6bf95ecf05e034684a15a4e37be54c5cdb5d2",
+      "expiresAt": 1793514558,
+      "issuedBy": "ROOTDEVELOPER000001"
+    }
+  }
 }
