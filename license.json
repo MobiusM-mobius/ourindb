@@ -2,18 +2,46 @@
   "version": 1,
   "numbers": {
     "6288704756515": {
-      "device": "998a129ff86c07b0ac19a06b87f7a92e51637ab78ec8204411f2555806daaff7",
-      "activatedAt": 1793488456,
-      "lastSeen": 1793488456,
+      "active": true,
       "revoked": false,
-      "note": "restored after test"
+      "note": "restored after test",
+      "since": 1793545251,
+      "lastSeen": 1793488456
     },
-    "6285847787578": {
-      "device": "af144b66539f73c8a9dd11dd25c5601eb8c29a63655f587abc45b857f25cbe8f",
-      "activatedAt": 1793515538,
-      "lastSeen": 1793515538,
+    "6282282538403": {
+      "active": true,
       "revoked": false,
-      "note": ""
+      "note": "",
+      "since": 1793545251,
+      "lastSeen": null
+    },
+    "6288991169136": {
+      "active": true,
+      "revoked": false,
+      "note": "",
+      "since": 1793545251,
+      "lastSeen": null
+    },
+    "6285182375101": {
+      "active": true,
+      "revoked": false,
+      "note": "",
+      "since": 1793545251,
+      "lastSeen": null
+    },
+    "089502234574": {
+      "active": true,
+      "revoked": false,
+      "note": "",
+      "since": 1793545251,
+      "lastSeen": null
+    },
+    "085707427460": {
+      "active": true,
+      "revoked": false,
+      "note": "",
+      "since": 1793545251,
+      "lastSeen": null
     }
   },
   "challenges": {}
