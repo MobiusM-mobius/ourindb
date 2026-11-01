@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T14:37:45.848Z",
+  "updatedAt": "2026-11-01T14:39:22.851Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -309,13 +309,13 @@
       "username": "malikganteng",
       "displayName": "malikganteng",
       "role": "moderator",
-      "passwordHash": "scrypt$16384$8$1$db7c3100b5a68875082cdba0a43ff349$cfe60771a169eb47456d5701ed90e3a574f802f1a067add41d802be68d28dea5543bd75e568f78d9f23f805da9c99405719db6959bad2b9266d647713e804fac",
+      "passwordHash": "scrypt$16384$8$1$0939dec880f91c398db3a4959c8dbf1c$ad961f75dfa9c61e24e2f688e7f3f3ca29e71789f8b53d62ab5253b0be74ac02fd8aa30bec0f0701634e3fb861ee8928bd0af8bfede0881c2f3efd0af270a014",
       "status": "active",
       "avatarUrl": "",
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T14:37:45.848Z",
-      "updatedAt": "2026-11-01T14:37:45.848Z",
+      "updatedAt": "2026-11-01T14:39:22.851Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
