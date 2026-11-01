@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T13:25:09.384Z",
+  "updatedAt": "2026-11-01T13:26:12.939Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -146,7 +146,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T11:46:55.822Z",
-      "updatedAt": "2026-11-01T13:25:09.384Z",
+      "updatedAt": "2026-11-01T13:26:12.939Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -155,7 +155,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SXQMCK0B69XJAP9B6E3BB",
+          "number": "6285182375101",
+          "label": "Fullup ourin",
+          "ownerId": "2MMNPJY45H8NJAP5RBL5",
+          "owner": {
+            "id": "2MMNPJY45H8NJAP5RBL5",
+            "username": "ANDRA",
+            "displayName": "ANDRA",
+            "role": "partner"
+          },
+          "addedById": "2MMNPJY45H8NJAP5RBL5",
+          "addedBy": {
+            "id": "2MMNPJY45H8NJAP5RBL5",
+            "username": "ANDRA",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-01T13:26:12.939Z"
+        }
+      ]
     },
     {
       "id": "4544JDA8V1SU184GFD5X",
