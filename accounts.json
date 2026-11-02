@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T14:41:46.887Z",
+  "updatedAt": "2026-11-02T03:02:14.823Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -63,28 +63,6 @@
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
         "username": "developer",
-        "displayName": "Developer",
-        "role": "developer"
-      },
-      "children": [],
-      "slots": []
-    },
-    {
-      "id": "HF4SX20A25ZM0N16TJNM",
-      "username": "mobpedia",
-      "displayName": "mobpedia",
-      "role": "staff",
-      "passwordHash": "scrypt$16384$8$1$5359361754fb6c41739cbff3752790e3$4ea940fe14b5591b08947dbbfdf0fb1ce7e2d83b363d468766e6103c1978162bdfc455061d08e4857bd8e6479aa57681359867da6fa44759c6c106bb000a7bed",
-      "status": "active",
-      "avatarUrl": "",
-      "bannerUrl": "",
-      "bannerType": "",
-      "createdAt": "2026-11-01T10:40:45.538Z",
-      "updatedAt": "2026-11-01T10:40:45.538Z",
-      "createdById": "ROOTDEVELOPER000001",
-      "createdBy": {
-        "id": "ROOTDEVELOPER000001",
-        "username": "ajidev",
         "displayName": "Developer",
         "role": "developer"
       },
