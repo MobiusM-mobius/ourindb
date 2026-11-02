@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-02T11:11:39.253Z",
+  "updatedAt": "2026-11-02T11:12:16.965Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -479,7 +479,7 @@
       "bannerUrl": "/uploads/banners/KJPU2VEZUKHBD2U791NN-gny6rh.webp",
       "bannerType": "image",
       "createdAt": "2026-11-02T10:22:57.597Z",
-      "updatedAt": "2026-11-02T11:11:39.253Z",
+      "updatedAt": "2026-11-02T11:12:16.965Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -507,25 +507,6 @@
             "role": "partner"
           },
           "createdAt": "2026-11-02T11:00:24.680Z"
-        },
-        {
-          "id": "S9UXK6AWA6KNEH2RXPFA2",
-          "number": "09618795856",
-          "label": "V2",
-          "ownerId": "KJPU2VEZUKHBD2U791NN",
-          "owner": {
-            "id": "KJPU2VEZUKHBD2U791NN",
-            "username": "andri",
-            "displayName": "andri",
-            "role": "partner"
-          },
-          "addedById": "KJPU2VEZUKHBD2U791NN",
-          "addedBy": {
-            "id": "KJPU2VEZUKHBD2U791NN",
-            "username": "andri",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-02T11:11:39.253Z"
         }
       ]
     }
