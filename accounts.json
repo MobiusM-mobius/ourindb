@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-02T03:02:54.623Z",
+  "updatedAt": "2026-11-02T03:02:59.890Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -233,7 +233,7 @@
       "bannerUrl": "/uploads/banners/NFWLCJCRQU68N1YUTUWK-fu84be.webp",
       "bannerType": "image",
       "createdAt": "2026-11-01T14:37:45.848Z",
-      "updatedAt": "2026-11-01T14:41:46.887Z",
+      "updatedAt": "2026-11-02T03:02:59.890Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -242,27 +242,7 @@
         "role": "developer"
       },
       "children": [],
-      "slots": [
-        {
-          "id": "SE08UACQ6CB7RVD54BR1L",
-          "number": "085707427460",
-          "label": "Whatsapp Utama",
-          "ownerId": "NFWLCJCRQU68N1YUTUWK",
-          "owner": {
-            "id": "NFWLCJCRQU68N1YUTUWK",
-            "username": "malikganteng",
-            "displayName": "MaᤨlikTzᤨy",
-            "role": "moderator"
-          },
-          "addedById": "NFWLCJCRQU68N1YUTUWK",
-          "addedBy": {
-            "id": "NFWLCJCRQU68N1YUTUWK",
-            "username": "malikganteng",
-            "role": "moderator"
-          },
-          "createdAt": "2026-11-01T14:41:46.887Z"
-        }
-      ]
+      "slots": []
     }
   ]
 }
