@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-02T03:18:45.544Z",
+  "updatedAt": "2026-11-02T05:37:35.457Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -58,7 +58,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T11:41:03.785Z",
-      "updatedAt": "2026-11-01T11:41:03.785Z",
+      "updatedAt": "2026-11-02T05:37:35.457Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -67,7 +67,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SS276LVZPQJRT3HEEKQH6",
+          "number": "628136279211",
+          "label": "buyer",
+          "ownerId": "1Q56X3W7VT1RK6DKZQJ6",
+          "owner": {
+            "id": "1Q56X3W7VT1RK6DKZQJ6",
+            "username": "nopal",
+            "displayName": "Nopal partner",
+            "role": "partner"
+          },
+          "addedById": "1Q56X3W7VT1RK6DKZQJ6",
+          "addedBy": {
+            "id": "1Q56X3W7VT1RK6DKZQJ6",
+            "username": "nopal",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-02T05:37:35.457Z"
+        }
+      ]
     },
     {
       "id": "LW6X3UZF1WMY2DATDCNU",
