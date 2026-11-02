@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-02T10:20:47.387Z",
+  "updatedAt": "2026-11-02T10:21:12.203Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -412,10 +412,10 @@
       "passwordHash": "scrypt$16384$8$1$4b76ac5800586a407dab7c17c85eaf2a$c39c6cf58dbb28fcdcadc2312fc3f8d046e24f1ffdf78623685ba1f4e87bd23be36305b8444a5243ac2a7b6a69990dc48a0a28497431537a21b4faa277cd058d",
       "status": "active",
       "avatarUrl": "/uploads/avatars/20LNNN0WM9K71TWB831X-a6rbup.webp",
-      "bannerUrl": "/uploads/banners/20LNNN0WM9K71TWB831X-vnkltu.webp",
+      "bannerUrl": "/uploads/banners/20LNNN0WM9K71TWB831X-umcgbg.webp",
       "bannerType": "image",
       "createdAt": "2026-11-02T09:56:33.751Z",
-      "updatedAt": "2026-11-02T10:20:47.387Z",
+      "updatedAt": "2026-11-02T10:21:12.203Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
