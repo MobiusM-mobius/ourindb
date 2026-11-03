@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-03T10:36:58.058Z",
+  "updatedAt": "2026-11-03T10:37:59.808Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -667,7 +667,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-02T14:26:22.514Z",
-      "updatedAt": "2026-11-03T10:36:58.058Z",
+      "updatedAt": "2026-11-03T10:37:59.808Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -676,7 +676,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SJ4DLAGBA0UQK2NW6GW2T",
+          "number": "085183267263",
+          "label": "no utama",
+          "ownerId": "92KD73APP2CD4BSP6ARE",
+          "owner": {
+            "id": "92KD73APP2CD4BSP6ARE",
+            "username": "villain",
+            "displayName": "villain",
+            "role": "partner"
+          },
+          "addedById": "92KD73APP2CD4BSP6ARE",
+          "addedBy": {
+            "id": "92KD73APP2CD4BSP6ARE",
+            "username": "villain",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-03T10:37:59.808Z"
+        }
+      ]
     },
     {
       "id": "KZP3GRN1WEY9KKY9YU88",
