@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-03T06:55:03.905Z",
+  "updatedAt": "2026-11-03T07:52:28.456Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -77,7 +77,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T11:41:03.785Z",
-      "updatedAt": "2026-11-03T06:55:03.905Z",
+      "updatedAt": "2026-11-03T07:52:28.456Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -132,6 +132,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-02T10:14:28.953Z"
+        },
+        {
+          "id": "SY1MZQY58XTM6XK2TLLZ7",
+          "number": "6285758641779",
+          "label": "mimiin",
+          "ownerId": "1Q56X3W7VT1RK6DKZQJ6",
+          "owner": {
+            "id": "1Q56X3W7VT1RK6DKZQJ6",
+            "username": "nopal",
+            "displayName": "Nopal partner",
+            "role": "partner"
+          },
+          "addedById": "1Q56X3W7VT1RK6DKZQJ6",
+          "addedBy": {
+            "id": "1Q56X3W7VT1RK6DKZQJ6",
+            "username": "nopal",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-03T07:52:28.456Z"
         }
       ]
     },
