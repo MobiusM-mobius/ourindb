@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-03T10:27:56.254Z",
+  "updatedAt": "2026-11-03T10:36:58.058Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -667,7 +667,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-02T14:26:22.514Z",
-      "updatedAt": "2026-11-03T10:26:16.126Z",
+      "updatedAt": "2026-11-03T10:36:58.058Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -675,15 +675,7 @@
         "displayName": "Developer",
         "role": "developer"
       },
-      "children": [
-        {
-          "id": "G8D2GV2KXQ07SXUD1GPW",
-          "username": "villainn",
-          "displayName": "villainn",
-          "role": "user",
-          "createdAt": "2026-11-03T10:26:16.126Z"
-        }
-      ],
+      "children": [],
       "slots": []
     },
     {
@@ -725,28 +717,6 @@
         "id": "1Q56X3W7VT1RK6DKZQJ6",
         "username": "nopal",
         "displayName": "Nopal partner",
-        "role": "partner"
-      },
-      "children": [],
-      "slots": []
-    },
-    {
-      "id": "G8D2GV2KXQ07SXUD1GPW",
-      "username": "villainn",
-      "displayName": "villainn",
-      "role": "user",
-      "passwordHash": "scrypt$16384$8$1$3f897181f5a846427afbd2a3ff85c68f$f808c88f75bfce666e8263ae5d97f89bd53ed1f1b8f3388365d5754def5bade824a0ad092c61ebc5ca0b1a5e4e0283c6bed6d67cbd03ea7fe3894905441734dd",
-      "status": "active",
-      "avatarUrl": "",
-      "bannerUrl": "",
-      "bannerType": "",
-      "createdAt": "2026-11-03T10:26:16.126Z",
-      "updatedAt": "2026-11-03T10:26:16.126Z",
-      "createdById": "92KD73APP2CD4BSP6ARE",
-      "createdBy": {
-        "id": "92KD73APP2CD4BSP6ARE",
-        "username": "villain",
-        "displayName": "villain",
         "role": "partner"
       },
       "children": [],
