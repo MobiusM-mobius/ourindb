@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-03T10:26:16.126Z",
+  "updatedAt": "2026-11-03T10:27:56.254Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -420,7 +420,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-02T03:18:31.768Z",
-      "updatedAt": "2026-11-02T03:18:31.768Z",
+      "updatedAt": "2026-11-03T10:27:56.254Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -429,7 +429,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "S887T6L3TZJRU632K6ZUD",
+          "number": "6285199894942",
+          "label": "bot wangcap utama",
+          "ownerId": "UT2NX8N1AP7NJJ7B0PPB",
+          "owner": {
+            "id": "UT2NX8N1AP7NJJ7B0PPB",
+            "username": "alipnotdep",
+            "displayName": "alipnotdep",
+            "role": "partner"
+          },
+          "addedById": "UT2NX8N1AP7NJJ7B0PPB",
+          "addedBy": {
+            "id": "UT2NX8N1AP7NJJ7B0PPB",
+            "username": "alipnotdep",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-03T10:27:56.254Z"
+        }
+      ]
     },
     {
       "id": "20LNNN0WM9K71TWB831X",
