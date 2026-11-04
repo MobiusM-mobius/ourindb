@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T09:55:28.439Z",
+  "updatedAt": "2026-11-04T09:55:29.329Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -900,7 +900,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T09:51:39.823Z",
-      "updatedAt": "2026-11-04T09:51:39.823Z",
+      "updatedAt": "2026-11-04T09:55:29.329Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -909,7 +909,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SGMFECA1PZQ921QS9TYV0",
+          "number": "6281469803096",
+          "label": "Whatsap bot",
+          "ownerId": "LC4AP3VNHEDK8H61NVJ7",
+          "owner": {
+            "id": "LC4AP3VNHEDK8H61NVJ7",
+            "username": "Luisfigo",
+            "displayName": "Luisfigo",
+            "role": "reseller"
+          },
+          "addedById": "LC4AP3VNHEDK8H61NVJ7",
+          "addedBy": {
+            "id": "LC4AP3VNHEDK8H61NVJ7",
+            "username": "Luisfigo",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-04T09:55:29.329Z"
+        }
+      ]
     }
   ]
 }
