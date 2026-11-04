@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T15:14:24.825Z",
+  "updatedAt": "2026-11-04T16:38:34.331Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1101,7 +1101,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T15:14:24.825Z",
-      "updatedAt": "2026-11-04T15:14:24.825Z",
+      "updatedAt": "2026-11-04T16:38:34.331Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1110,7 +1110,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SJK4FBHJ5ZZUFAZFG9NZX",
+          "number": "62881025401806",
+          "label": "nomor kedua",
+          "ownerId": "6WYU3FETGFTPMUDFGSUG",
+          "owner": {
+            "id": "6WYU3FETGFTPMUDFGSUG",
+            "username": "CorvetteC7",
+            "displayName": "CorvetteC7",
+            "role": "reseller"
+          },
+          "addedById": "6WYU3FETGFTPMUDFGSUG",
+          "addedBy": {
+            "id": "6WYU3FETGFTPMUDFGSUG",
+            "username": "CorvetteC7",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-04T16:38:34.331Z"
+        }
+      ]
     }
   ]
 }
