@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T08:21:47.181Z",
+  "updatedAt": "2026-11-04T08:32:42.774Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -758,6 +758,28 @@
         "username": "nopal",
         "displayName": "Nopal partner",
         "role": "partner"
+      },
+      "children": [],
+      "slots": []
+    },
+    {
+      "id": "F22DPRL8UC80M0YFLRKP",
+      "username": "Huka",
+      "displayName": "Huka",
+      "role": "staff",
+      "passwordHash": "scrypt$16384$8$1$19ac1305d7d79fc8fa18d0c01c9430ae$b0762f7934fb7ac373ad6e481ee9a7b8d9777024f07ecd1788514a0e598b0c4e371393c5ec30c38c870db9afc38909bf7be58ec68d79095188bf386e49e7cfa3",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-11-04T08:32:42.774Z",
+      "updatedAt": "2026-11-04T08:32:42.774Z",
+      "createdById": "ROOTDEVELOPER000001",
+      "createdBy": {
+        "id": "ROOTDEVELOPER000001",
+        "username": "ajidev",
+        "displayName": "Developer",
+        "role": "developer"
       },
       "children": [],
       "slots": []
