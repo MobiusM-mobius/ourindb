@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T09:54:49.292Z",
+  "updatedAt": "2026-11-04T09:55:03.083Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -850,7 +850,7 @@
     {
       "id": "95AJNLN4PNG2D6RKRBRQ",
       "username": "hujanku",
-      "displayName": "hujanku",
+      "displayName": "SkyZynssX",
       "role": "reseller",
       "passwordHash": "scrypt$16384$8$1$0f9573e61ad5a82ccdf6f99bc813fcd4$1d95a853749d1f064e7ba7bbcb9340d12959336db92ee73e199542c43115ab4d3412d7e556f31200054de47fdfd1595ea72503dc99ac8a53c0ca4a26d9e6d31a",
       "status": "active",
@@ -858,7 +858,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T09:50:47.443Z",
-      "updatedAt": "2026-11-04T09:54:49.292Z",
+      "updatedAt": "2026-11-04T09:55:03.083Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
