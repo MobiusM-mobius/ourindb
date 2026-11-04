@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T12:00:21.490Z",
+  "updatedAt": "2026-11-04T12:49:50.287Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -226,7 +226,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T11:46:55.822Z",
-      "updatedAt": "2026-11-04T08:21:47.181Z",
+      "updatedAt": "2026-11-04T12:49:50.287Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -254,6 +254,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-02T08:31:31.410Z"
+        },
+        {
+          "id": "SWH8GU9S0J6WWV0N5NMWR",
+          "number": "6285196485579",
+          "label": "Fullup ourin",
+          "ownerId": "2MMNPJY45H8NJAP5RBL5",
+          "owner": {
+            "id": "2MMNPJY45H8NJAP5RBL5",
+            "username": "ANDRA",
+            "displayName": "ANDRA",
+            "role": "partner"
+          },
+          "addedById": "2MMNPJY45H8NJAP5RBL5",
+          "addedBy": {
+            "id": "2MMNPJY45H8NJAP5RBL5",
+            "username": "ANDRA",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-04T12:49:50.287Z"
         }
       ]
     },
