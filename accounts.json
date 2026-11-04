@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T08:32:58.613Z",
+  "updatedAt": "2026-11-04T09:09:07.485Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -796,6 +796,28 @@
       "bannerType": "",
       "createdAt": "2026-11-04T08:32:58.613Z",
       "updatedAt": "2026-11-04T08:32:58.613Z",
+      "createdById": "ROOTDEVELOPER000001",
+      "createdBy": {
+        "id": "ROOTDEVELOPER000001",
+        "username": "ajidev",
+        "displayName": "Developer",
+        "role": "developer"
+      },
+      "children": [],
+      "slots": []
+    },
+    {
+      "id": "B644GPYUJX6ET259JR2V",
+      "username": "Testing",
+      "displayName": "Testing",
+      "role": "user",
+      "passwordHash": "scrypt$16384$8$1$ccc93d57bc11145402a8ed57d6886b4b$cabd1c03a4d34114e5fe9bd0d5ca0191e6a7bb174d05fc53489eb749d2588861961bbce4ca740beef16fe59b977003d717e652f6a1948c0c9e839ab1042ce2cb",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-11-04T09:09:07.485Z",
+      "updatedAt": "2026-11-04T09:09:07.485Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
