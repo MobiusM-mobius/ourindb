@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-04T09:52:37.296Z",
+  "updatedAt": "2026-11-04T09:52:55.847Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -858,7 +858,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T09:50:47.443Z",
-      "updatedAt": "2026-11-04T09:52:37.296Z",
+      "updatedAt": "2026-11-04T09:52:55.847Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -867,7 +867,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SE8SXTCND0FPDRZQWJD8D",
+          "number": "082315309728",
+          "label": "wa utama",
+          "ownerId": "95AJNLN4PNG2D6RKRBRQ",
+          "owner": {
+            "id": "95AJNLN4PNG2D6RKRBRQ",
+            "username": "hujanku",
+            "displayName": "hujanku",
+            "role": "reseller"
+          },
+          "addedById": "95AJNLN4PNG2D6RKRBRQ",
+          "addedBy": {
+            "id": "95AJNLN4PNG2D6RKRBRQ",
+            "username": "hujanku",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-04T09:52:55.847Z"
+        }
+      ]
     },
     {
       "id": "LC4AP3VNHEDK8H61NVJ7",
