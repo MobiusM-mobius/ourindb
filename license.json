@@ -140,6 +140,13 @@
       "note": "",
       "since": 1793711908,
       "lastSeen": 1793781308
+    },
+    "082315309728": {
+      "active": true,
+      "revoked": false,
+      "note": "",
+      "since": 1793785979,
+      "lastSeen": null
     }
   },
   "challenges": {}
