@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-05T10:30:58.463Z",
+  "updatedAt": "2026-11-05T10:34:42.858Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1204,7 +1204,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T10:30:58.463Z",
-      "updatedAt": "2026-11-05T10:30:58.463Z",
+      "updatedAt": "2026-11-05T10:34:42.858Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1213,7 +1213,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SU26NWETKWUVQ4FUPUU1Z",
+          "number": "628976895629",
+          "label": "Bot",
+          "ownerId": "J940CUS7LBYNDSR355XV",
+          "owner": {
+            "id": "J940CUS7LBYNDSR355XV",
+            "username": "Yazz16",
+            "displayName": "Yazz16",
+            "role": "partner"
+          },
+          "addedById": "J940CUS7LBYNDSR355XV",
+          "addedBy": {
+            "id": "J940CUS7LBYNDSR355XV",
+            "username": "Yazz16",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-05T10:34:42.858Z"
+        }
+      ]
     }
   ]
 }
