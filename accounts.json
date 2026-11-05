@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-05T14:18:52.669Z",
+  "updatedAt": "2026-11-05T14:26:28.425Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1512,7 +1512,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T14:05:55.094Z",
-      "updatedAt": "2026-11-05T14:05:55.094Z",
+      "updatedAt": "2026-11-05T14:26:28.425Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1521,7 +1521,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SA6L7ZVMWKDVZ1UPNG6FG",
+          "number": "6289682092911",
+          "label": "buat apa aja,waan",
+          "ownerId": "DPBSN61Y16TG6SDXZDWJ",
+          "owner": {
+            "id": "DPBSN61Y16TG6SDXZDWJ",
+            "username": "novv",
+            "displayName": "novv",
+            "role": "partner"
+          },
+          "addedById": "DPBSN61Y16TG6SDXZDWJ",
+          "addedBy": {
+            "id": "DPBSN61Y16TG6SDXZDWJ",
+            "username": "novv",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-05T14:26:28.425Z"
+        }
+      ]
     }
   ]
 }
