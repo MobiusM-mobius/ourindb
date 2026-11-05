@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-05T14:00:31.367Z",
+  "updatedAt": "2026-11-05T14:05:55.094Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1459,6 +1459,28 @@
         "username": "kenzyryu",
         "displayName": "kenzyryu",
         "role": "partner"
+      },
+      "children": [],
+      "slots": []
+    },
+    {
+      "id": "DPBSN61Y16TG6SDXZDWJ",
+      "username": "novv",
+      "displayName": "novv",
+      "role": "partner",
+      "passwordHash": "scrypt$16384$8$1$12051eabc1d37d2e3142c2a5b0c3af66$14eb4c3026bde94d842178d0cc34ade64c68d5fff360ca0b1b2d039335ae63a0411bf1d76455e20fa512c9781deb674451c5b72260fd45cf0836a585233b2e67",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-11-05T14:05:55.094Z",
+      "updatedAt": "2026-11-05T14:05:55.094Z",
+      "createdById": "ROOTDEVELOPER000001",
+      "createdBy": {
+        "id": "ROOTDEVELOPER000001",
+        "username": "ajidev",
+        "displayName": "Developer",
+        "role": "developer"
       },
       "children": [],
       "slots": []
