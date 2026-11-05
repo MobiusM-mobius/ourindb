@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-05T12:42:22.572Z",
+  "updatedAt": "2026-11-05T13:00:03.924Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1375,7 +1375,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T12:39:34.427Z",
-      "updatedAt": "2026-11-05T12:42:22.572Z",
+      "updatedAt": "2026-11-05T13:00:03.924Z",
       "createdById": "11LTUGDV09RJEYEKHD7F",
       "createdBy": {
         "id": "11LTUGDV09RJEYEKHD7F",
@@ -1384,27 +1384,7 @@
         "role": "partner"
       },
       "children": [],
-      "slots": [
-        {
-          "id": "S16ZCB9LBV8K1TLDY28AS",
-          "number": "6283133535462",
-          "label": "Whatsapp Bisnis",
-          "ownerId": "ENJHXPDFRB9Y8BF0SSFP",
-          "owner": {
-            "id": "ENJHXPDFRB9Y8BF0SSFP",
-            "username": "kenzyryuu.Ganteng",
-            "displayName": "Kenzyryu",
-            "role": "reseller"
-          },
-          "addedById": "11LTUGDV09RJEYEKHD7F",
-          "addedBy": {
-            "id": "11LTUGDV09RJEYEKHD7F",
-            "username": "kenzyryu",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-05T12:42:22.572Z"
-        }
-      ]
+      "slots": []
     }
   ]
 }
