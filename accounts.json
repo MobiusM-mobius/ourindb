@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-06T06:29:59.679Z",
+  "updatedAt": "2026-11-06T06:42:36.870Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1631,6 +1631,28 @@
       "bannerType": "",
       "createdAt": "2026-11-06T06:29:59.679Z",
       "updatedAt": "2026-11-06T06:29:59.679Z",
+      "createdById": "ROOTDEVELOPER000001",
+      "createdBy": {
+        "id": "ROOTDEVELOPER000001",
+        "username": "ajidev",
+        "displayName": "Developer",
+        "role": "developer"
+      },
+      "children": [],
+      "slots": []
+    },
+    {
+      "id": "Y08YKJXFC8YRMKW8MS44",
+      "username": "colpad",
+      "displayName": "colpad",
+      "role": "partner",
+      "passwordHash": "scrypt$16384$8$1$1691ce4e371514ec8ec662986ac6e220$7606d194fbf5df6d5a3a451a4a9e1f8476e0d68c90d5723d9bd974d6e89f20de50aecf52a040a7258a324f055e6b409b88dbe96732358d66e7f8ae1888435bd0",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-11-06T06:42:36.870Z",
+      "updatedAt": "2026-11-06T06:42:36.870Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
