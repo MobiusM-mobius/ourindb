@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-06T07:37:29.232Z",
+  "updatedAt": "2026-11-06T07:56:00.450Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1652,7 +1652,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-06T06:42:36.870Z",
-      "updatedAt": "2026-11-06T07:37:29.232Z",
+      "updatedAt": "2026-11-06T07:56:00.450Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1661,27 +1661,7 @@
         "role": "developer"
       },
       "children": [],
-      "slots": [
-        {
-          "id": "S01UAN6TY5B9UM7K4V4SQ",
-          "number": "6285136511090",
-          "label": "WA UTAMA",
-          "ownerId": "Y08YKJXFC8YRMKW8MS44",
-          "owner": {
-            "id": "Y08YKJXFC8YRMKW8MS44",
-            "username": "colpad",
-            "displayName": "colpad",
-            "role": "partner"
-          },
-          "addedById": "Y08YKJXFC8YRMKW8MS44",
-          "addedBy": {
-            "id": "Y08YKJXFC8YRMKW8MS44",
-            "username": "colpad",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-06T07:37:29.232Z"
-        }
-      ]
+      "slots": []
     }
   ]
 }
