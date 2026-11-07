@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-07T03:13:40.246Z",
+  "updatedAt": "2026-11-07T03:14:29.907Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -43,25 +43,6 @@
           "role": "developer"
         },
         "createdAt": "2026-11-02T03:10:40.653Z"
-      },
-      {
-        "id": "STE2ZDB20F3GQ3XKLXR8K",
-        "number": "6287763404097",
-        "label": "Testing license",
-        "ownerId": "ROOTDEVELOPER000001",
-        "owner": {
-          "id": "ROOTDEVELOPER000001",
-          "username": "ajidev",
-          "displayName": "Developer",
-          "role": "developer"
-        },
-        "addedById": "ROOTDEVELOPER000001",
-        "addedBy": {
-          "id": "ROOTDEVELOPER000001",
-          "username": "ajidev",
-          "role": "developer"
-        },
-        "createdAt": "2026-11-03T05:57:07.946Z"
       },
       {
         "id": "SA2ZGSTNW9X9T2W75JKNQ",
