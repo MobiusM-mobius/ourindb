@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-07T17:13:15.387Z",
+  "updatedAt": "2026-11-07T17:15:53.151Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -119,25 +119,6 @@
           "role": "developer"
         },
         "createdAt": "2026-11-05T13:09:03.116Z"
-      },
-      {
-        "id": "SWGMPSN3PX8KFJUJ7J4G1",
-        "number": "6285187121204",
-        "label": "",
-        "ownerId": "ROOTDEVELOPER000001",
-        "owner": {
-          "id": "ROOTDEVELOPER000001",
-          "username": "ajidev",
-          "displayName": "Developer",
-          "role": "developer"
-        },
-        "addedById": "ROOTDEVELOPER000001",
-        "addedBy": {
-          "id": "ROOTDEVELOPER000001",
-          "username": "ajidev",
-          "role": "developer"
-        },
-        "createdAt": "2026-11-05T14:18:33.816Z"
       },
       {
         "id": "SA8145AJ75XGMA5YTQXJE",
