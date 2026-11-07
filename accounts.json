@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-07T17:08:29.976Z",
+  "updatedAt": "2026-11-07T17:09:22.353Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1162,7 +1162,7 @@
       "bannerUrl": "/uploads/banners/95AJNLN4PNG2D6RKRBRQ-eh324q.webp",
       "bannerType": "image",
       "createdAt": "2026-11-04T09:50:47.443Z",
-      "updatedAt": "2026-11-07T17:08:29.976Z",
+      "updatedAt": "2026-11-07T17:09:22.353Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1228,6 +1228,25 @@
             "role": "reseller"
           },
           "createdAt": "2026-11-07T17:08:29.976Z"
+        },
+        {
+          "id": "SAXLR3RABGFXLNG0RMG3N",
+          "number": "6285133391143",
+          "label": "",
+          "ownerId": "95AJNLN4PNG2D6RKRBRQ",
+          "owner": {
+            "id": "95AJNLN4PNG2D6RKRBRQ",
+            "username": "hujanku",
+            "displayName": "SkyZynssX",
+            "role": "reseller"
+          },
+          "addedById": "95AJNLN4PNG2D6RKRBRQ",
+          "addedBy": {
+            "id": "95AJNLN4PNG2D6RKRBRQ",
+            "username": "hujanku",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-07T17:09:22.353Z"
         }
       ]
     },
