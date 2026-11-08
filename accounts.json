@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08T12:18:40.509Z",
+  "updatedAt": "2026-11-08T12:46:01.514Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1560,7 +1560,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T08:53:50.881Z",
-      "updatedAt": "2026-11-08T12:18:40.509Z",
+      "updatedAt": "2026-11-08T12:46:01.514Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1626,25 +1626,6 @@
             "role": "partner"
           },
           "createdAt": "2026-11-07T00:15:43.009Z"
-        },
-        {
-          "id": "S29QAW74273FSDJPQESAV",
-          "number": "6281914401217",
-          "label": "Bantu add doang",
-          "ownerId": "HD6GY2H2K57HQJ2EF3WU",
-          "owner": {
-            "id": "HD6GY2H2K57HQJ2EF3WU",
-            "username": "Cahy144hs",
-            "displayName": "Cahy144hz",
-            "role": "partner"
-          },
-          "addedById": "HD6GY2H2K57HQJ2EF3WU",
-          "addedBy": {
-            "id": "HD6GY2H2K57HQJ2EF3WU",
-            "username": "Cahy144hs",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-08T12:18:40.509Z"
         }
       ]
     },
