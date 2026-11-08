@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08T04:31:24.953Z",
+  "updatedAt": "2026-11-08T04:45:30.358Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -62,25 +62,6 @@
           "role": "developer"
         },
         "createdAt": "2026-11-04T08:07:23.262Z"
-      },
-      {
-        "id": "S0N959DHL2M55B0UP6KQX",
-        "number": "6287722980238",
-        "label": "+62 877-2298-0238",
-        "ownerId": "ROOTDEVELOPER000001",
-        "owner": {
-          "id": "ROOTDEVELOPER000001",
-          "username": "ajidev",
-          "displayName": "Developer",
-          "role": "developer"
-        },
-        "addedById": "ROOTDEVELOPER000001",
-        "addedBy": {
-          "id": "ROOTDEVELOPER000001",
-          "username": "ajidev",
-          "role": "developer"
-        },
-        "createdAt": "2026-11-04T09:17:02.329Z"
       },
       {
         "id": "SF7EARLFKAHNKZ2KYAY33",
