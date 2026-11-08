@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08T09:08:12.426Z",
+  "updatedAt": "2026-11-08T10:11:23.576Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -747,7 +747,7 @@
       "bannerUrl": "/uploads/banners/20LNNN0WM9K71TWB831X-umcgbg.webp",
       "bannerType": "image",
       "createdAt": "2026-11-02T09:56:33.751Z",
-      "updatedAt": "2026-11-02T10:58:13.302Z",
+      "updatedAt": "2026-11-08T10:11:23.576Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -756,27 +756,7 @@
         "role": "developer"
       },
       "children": [],
-      "slots": [
-        {
-          "id": "SVZ0F9Q1UKYXN2TAJZCQN",
-          "number": "088242761514",
-          "label": "Wa Utama",
-          "ownerId": "20LNNN0WM9K71TWB831X",
-          "owner": {
-            "id": "20LNNN0WM9K71TWB831X",
-            "username": "Kaymarket",
-            "displayName": "Kaymarket",
-            "role": "tangan-kanan"
-          },
-          "addedById": "20LNNN0WM9K71TWB831X",
-          "addedBy": {
-            "id": "20LNNN0WM9K71TWB831X",
-            "username": "Kaymarket",
-            "role": "tangan-kanan"
-          },
-          "createdAt": "2026-11-02T10:58:13.302Z"
-        }
-      ]
+      "slots": []
     },
     {
       "id": "23DJB00QV2TEGW11Y4LR",
