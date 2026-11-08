@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08T05:26:38.409Z",
+  "updatedAt": "2026-11-08T09:08:12.426Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -910,7 +910,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-02T12:36:08.716Z",
-      "updatedAt": "2026-11-08T05:26:38.409Z",
+      "updatedAt": "2026-11-08T09:08:12.426Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1090,6 +1090,25 @@
             "role": "staff"
           },
           "createdAt": "2026-11-08T05:26:38.409Z"
+        },
+        {
+          "id": "SQ4JRNN24P95M57KQ5H97",
+          "number": "6285881985158",
+          "label": "sanzxfg",
+          "ownerId": "SYJXWXEGVQJ8FFZ11PXC",
+          "owner": {
+            "id": "SYJXWXEGVQJ8FFZ11PXC",
+            "username": "Hyuu",
+            "displayName": "Developer",
+            "role": "staff"
+          },
+          "addedById": "SYJXWXEGVQJ8FFZ11PXC",
+          "addedBy": {
+            "id": "SYJXWXEGVQJ8FFZ11PXC",
+            "username": "Hyuu",
+            "role": "staff"
+          },
+          "createdAt": "2026-11-08T09:08:12.426Z"
         }
       ]
     },
