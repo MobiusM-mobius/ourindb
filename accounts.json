@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-09T04:29:29.321Z",
+  "updatedAt": "2026-11-09T04:29:59.262Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1495,7 +1495,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T14:21:36.990Z",
-      "updatedAt": "2026-11-09T04:29:29.321Z",
+      "updatedAt": "2026-11-09T04:29:59.262Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1542,6 +1542,25 @@
             "role": "reseller"
           },
           "createdAt": "2026-11-09T02:32:50.176Z"
+        },
+        {
+          "id": "SAE1FFAG8WV14FXK1Q7AJ",
+          "number": "6285194310503",
+          "label": "Bot Utama",
+          "ownerId": "EEF6549K2PXNLAD36PCM",
+          "owner": {
+            "id": "EEF6549K2PXNLAD36PCM",
+            "username": "SayClooc",
+            "displayName": "SayClooc",
+            "role": "reseller"
+          },
+          "addedById": "EEF6549K2PXNLAD36PCM",
+          "addedBy": {
+            "id": "EEF6549K2PXNLAD36PCM",
+            "username": "SayClooc",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-09T04:29:59.262Z"
         }
       ]
     },
