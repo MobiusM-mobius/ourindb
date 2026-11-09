@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-09T12:43:51.631Z",
+  "updatedAt": "2026-11-09T12:44:35.978Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1515,7 +1515,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T14:21:36.990Z",
-      "updatedAt": "2026-11-09T12:43:51.631Z",
+      "updatedAt": "2026-11-09T12:44:35.978Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1543,6 +1543,25 @@
             "role": "reseller"
           },
           "createdAt": "2026-11-04T15:11:27.116Z"
+        },
+        {
+          "id": "SX6EZL20Q7ANKRNUNYPCR",
+          "number": "628217697310",
+          "label": "Bott",
+          "ownerId": "EEF6549K2PXNLAD36PCM",
+          "owner": {
+            "id": "EEF6549K2PXNLAD36PCM",
+            "username": "SayClooc",
+            "displayName": "SayClooc",
+            "role": "reseller"
+          },
+          "addedById": "EEF6549K2PXNLAD36PCM",
+          "addedBy": {
+            "id": "EEF6549K2PXNLAD36PCM",
+            "username": "SayClooc",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-09T12:44:35.978Z"
         }
       ]
     },
