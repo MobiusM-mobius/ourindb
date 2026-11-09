@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-09T04:29:59.262Z",
+  "updatedAt": "2026-11-09T06:50:23.801Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1895,7 +1895,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-06T06:29:59.679Z",
-      "updatedAt": "2026-11-07T11:43:05.810Z",
+      "updatedAt": "2026-11-09T06:50:23.801Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1904,27 +1904,7 @@
         "role": "developer"
       },
       "children": [],
-      "slots": [
-        {
-          "id": "SW4PA5JNPT2FYJKRN8BK3",
-          "number": "0895321860590",
-          "label": "Nomor Utama ⚠️",
-          "ownerId": "PC9048S2R1T74UWENW7X",
-          "owner": {
-            "id": "PC9048S2R1T74UWENW7X",
-            "username": "Rapxourin",
-            "displayName": "Rapxourin",
-            "role": "partner"
-          },
-          "addedById": "PC9048S2R1T74UWENW7X",
-          "addedBy": {
-            "id": "PC9048S2R1T74UWENW7X",
-            "username": "Rapxourin",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-07T11:43:05.810Z"
-        }
-      ]
+      "slots": []
     },
     {
       "id": "Y08YKJXFC8YRMKW8MS44",
