@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-10T12:57:32.137Z",
+  "updatedAt": "2026-11-10T13:15:27.179Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1645,7 +1645,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T08:53:50.881Z",
-      "updatedAt": "2026-11-09T12:48:13.585Z",
+      "updatedAt": "2026-11-10T13:15:27.179Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1692,6 +1692,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-09T12:48:13.585Z"
+        },
+        {
+          "id": "S73375PBYZM4WGYEKCC4Q",
+          "number": "6281262131455",
+          "label": "",
+          "ownerId": "HD6GY2H2K57HQJ2EF3WU",
+          "owner": {
+            "id": "HD6GY2H2K57HQJ2EF3WU",
+            "username": "Cahy144hs",
+            "displayName": "Cahy144hz",
+            "role": "partner"
+          },
+          "addedById": "HD6GY2H2K57HQJ2EF3WU",
+          "addedBy": {
+            "id": "HD6GY2H2K57HQJ2EF3WU",
+            "username": "Cahy144hs",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-10T13:15:27.179Z"
         }
       ]
     },
