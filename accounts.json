@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-11T11:52:35.951Z",
+  "updatedAt": "2026-11-11T11:53:23.681Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -823,7 +823,7 @@
       "bannerUrl": "/uploads/banners/20LNNN0WM9K71TWB831X-umcgbg.webp",
       "bannerType": "image",
       "createdAt": "2026-11-02T09:56:33.751Z",
-      "updatedAt": "2026-11-11T11:52:35.951Z",
+      "updatedAt": "2026-11-11T11:53:23.681Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -851,6 +851,25 @@
             "role": "tangan-kanan"
           },
           "createdAt": "2026-11-11T11:07:23.889Z"
+        },
+        {
+          "id": "S2RFJG396XKZA3KGSN7MM",
+          "number": "62895405857972",
+          "label": "Anak member aji",
+          "ownerId": "20LNNN0WM9K71TWB831X",
+          "owner": {
+            "id": "20LNNN0WM9K71TWB831X",
+            "username": "Kaymarket",
+            "displayName": "Kaymarket",
+            "role": "tangan-kanan"
+          },
+          "addedById": "20LNNN0WM9K71TWB831X",
+          "addedBy": {
+            "id": "20LNNN0WM9K71TWB831X",
+            "username": "Kaymarket",
+            "role": "tangan-kanan"
+          },
+          "createdAt": "2026-11-11T11:53:23.681Z"
         }
       ]
     },
