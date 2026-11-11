@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-10T14:12:01.392Z",
+  "updatedAt": "2026-11-11T02:48:32.643Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1778,7 +1778,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T10:47:34.775Z",
-      "updatedAt": "2026-11-05T11:04:29.841Z",
+      "updatedAt": "2026-11-11T02:48:32.643Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1806,6 +1806,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-05T11:04:29.841Z"
+        },
+        {
+          "id": "SG9K3URG39SCWRMSASBD4",
+          "number": "6285196451197",
+          "label": "",
+          "ownerId": "8Q9ZQDFJVWQBJ1MFKWZA",
+          "owner": {
+            "id": "8Q9ZQDFJVWQBJ1MFKWZA",
+            "username": "nanawstore",
+            "displayName": "nanawstore",
+            "role": "partner"
+          },
+          "addedById": "8Q9ZQDFJVWQBJ1MFKWZA",
+          "addedBy": {
+            "id": "8Q9ZQDFJVWQBJ1MFKWZA",
+            "username": "nanawstore",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-11T02:48:32.643Z"
         }
       ]
     },
