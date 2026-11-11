@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-11T08:47:54.861Z",
+  "updatedAt": "2026-11-11T11:06:55.564Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -823,7 +823,7 @@
       "bannerUrl": "/uploads/banners/20LNNN0WM9K71TWB831X-umcgbg.webp",
       "bannerType": "image",
       "createdAt": "2026-11-02T09:56:33.751Z",
-      "updatedAt": "2026-11-10T12:57:32.137Z",
+      "updatedAt": "2026-11-11T11:06:55.564Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -833,25 +833,6 @@
       },
       "children": [],
       "slots": [
-        {
-          "id": "S7M94ABY20HA64L24E5F0",
-          "number": "088242761514",
-          "label": "Admin",
-          "ownerId": "20LNNN0WM9K71TWB831X",
-          "owner": {
-            "id": "20LNNN0WM9K71TWB831X",
-            "username": "Kaymarket",
-            "displayName": "Kaymarket",
-            "role": "tangan-kanan"
-          },
-          "addedById": "20LNNN0WM9K71TWB831X",
-          "addedBy": {
-            "id": "20LNNN0WM9K71TWB831X",
-            "username": "Kaymarket",
-            "role": "tangan-kanan"
-          },
-          "createdAt": "2026-11-09T10:36:55.571Z"
-        },
         {
           "id": "S6L82TQK48HD30UZZ74TB",
           "number": "0895405857972",
