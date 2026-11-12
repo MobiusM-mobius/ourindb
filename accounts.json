@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-12T13:28:35.192Z",
+  "updatedAt": "2026-11-12T14:30:09.196Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -412,7 +412,7 @@
       "bannerUrl": "/uploads/banners/LW6X3UZF1WMY2DATDCNU-rmts5h.mp4",
       "bannerType": "video",
       "createdAt": "2026-11-01T11:46:14.171Z",
-      "updatedAt": "2026-11-01T14:26:19.440Z",
+      "updatedAt": "2026-11-12T14:30:09.196Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -440,6 +440,25 @@
             "role": "moderator"
           },
           "createdAt": "2026-11-01T14:26:19.440Z"
+        },
+        {
+          "id": "S82QPWFVQDAU4BFHPNXFS",
+          "number": "6285726674248",
+          "label": "Nomor orang",
+          "ownerId": "LW6X3UZF1WMY2DATDCNU",
+          "owner": {
+            "id": "LW6X3UZF1WMY2DATDCNU",
+            "username": "AL53RUPU7",
+            "displayName": "ALI",
+            "role": "moderator"
+          },
+          "addedById": "LW6X3UZF1WMY2DATDCNU",
+          "addedBy": {
+            "id": "LW6X3UZF1WMY2DATDCNU",
+            "username": "AL53RUPU7",
+            "role": "moderator"
+          },
+          "createdAt": "2026-11-12T14:30:09.196Z"
         }
       ]
     },
