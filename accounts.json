@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-12T12:53:16.892Z",
+  "updatedAt": "2026-11-12T12:53:33.352Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1874,7 +1874,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T10:47:34.775Z",
-      "updatedAt": "2026-11-11T02:48:32.643Z",
+      "updatedAt": "2026-11-12T12:53:33.352Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1921,6 +1921,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-11T02:48:32.643Z"
+        },
+        {
+          "id": "SZ7N3Z67UYFYBFCV98P8D",
+          "number": "6285695234182",
+          "label": "rekekbot",
+          "ownerId": "8Q9ZQDFJVWQBJ1MFKWZA",
+          "owner": {
+            "id": "8Q9ZQDFJVWQBJ1MFKWZA",
+            "username": "nanawstore",
+            "displayName": "nanawstore",
+            "role": "partner"
+          },
+          "addedById": "8Q9ZQDFJVWQBJ1MFKWZA",
+          "addedBy": {
+            "id": "8Q9ZQDFJVWQBJ1MFKWZA",
+            "username": "nanawstore",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-12T12:53:33.352Z"
         }
       ]
     },
