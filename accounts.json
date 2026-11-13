@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-13T11:22:16.688Z",
+  "updatedAt": "2026-11-13T11:22:24.373Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -944,7 +944,7 @@
       "bannerUrl": "/uploads/banners/KJPU2VEZUKHBD2U791NN-gny6rh.webp",
       "bannerType": "image",
       "createdAt": "2026-11-02T10:22:57.597Z",
-      "updatedAt": "2026-11-13T11:22:16.688Z",
+      "updatedAt": "2026-11-13T11:22:24.373Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -954,25 +954,6 @@
       },
       "children": [],
       "slots": [
-        {
-          "id": "SZDATT1L2408EDG6ZUNTA",
-          "number": "625124187269",
-          "label": "gg",
-          "ownerId": "KJPU2VEZUKHBD2U791NN",
-          "owner": {
-            "id": "KJPU2VEZUKHBD2U791NN",
-            "username": "andri",
-            "displayName": "andri",
-            "role": "partner"
-          },
-          "addedById": "KJPU2VEZUKHBD2U791NN",
-          "addedBy": {
-            "id": "KJPU2VEZUKHBD2U791NN",
-            "username": "andri",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-02T11:16:44.678Z"
-        },
         {
           "id": "S1821SYPD8PXELV2FRQ8G",
           "number": "6283187844639",
