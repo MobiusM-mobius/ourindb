@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-14T10:01:17.699Z",
+  "updatedAt": "2026-11-14T10:04:20.999Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2257,7 +2257,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-14T10:01:17.699Z",
-      "updatedAt": "2026-11-14T10:01:17.699Z",
+      "updatedAt": "2026-11-14T10:04:20.999Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2266,7 +2266,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SA42PR7ENFRHRMGEP9GYD",
+          "number": "6288310837775",
+          "label": "",
+          "ownerId": "K4SHBNLY7QZ2VWPNC9H0",
+          "owner": {
+            "id": "K4SHBNLY7QZ2VWPNC9H0",
+            "username": "bimz",
+            "displayName": "bimz",
+            "role": "partner"
+          },
+          "addedById": "K4SHBNLY7QZ2VWPNC9H0",
+          "addedBy": {
+            "id": "K4SHBNLY7QZ2VWPNC9H0",
+            "username": "bimz",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-14T10:04:20.999Z"
+        }
+      ]
     }
   ]
 }
