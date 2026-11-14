@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-14T10:13:00.138Z",
+  "updatedAt": "2026-11-14T10:38:29.387Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2091,7 +2091,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-06T06:42:36.870Z",
-      "updatedAt": "2026-11-14T10:13:00.138Z",
+      "updatedAt": "2026-11-14T10:38:29.387Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2157,6 +2157,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-14T10:13:00.138Z"
+        },
+        {
+          "id": "S4YHAGZPSTBZ2X1ZBRNT2",
+          "number": "6285194593615",
+          "label": "NO PRIB",
+          "ownerId": "Y08YKJXFC8YRMKW8MS44",
+          "owner": {
+            "id": "Y08YKJXFC8YRMKW8MS44",
+            "username": "colpad",
+            "displayName": "colpad",
+            "role": "partner"
+          },
+          "addedById": "Y08YKJXFC8YRMKW8MS44",
+          "addedBy": {
+            "id": "Y08YKJXFC8YRMKW8MS44",
+            "username": "colpad",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-14T10:38:29.387Z"
         }
       ]
     },
