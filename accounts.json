@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-15T12:28:34.749Z",
+  "updatedAt": "2026-11-15T12:29:20.783Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2398,7 +2398,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-15T09:11:11.726Z",
-      "updatedAt": "2026-11-15T12:28:34.749Z",
+      "updatedAt": "2026-11-15T12:29:20.783Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2426,6 +2426,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-15T09:14:19.296Z"
+        },
+        {
+          "id": "SV6KQV584BTHLV8CTEZGH",
+          "number": "6283862395439",
+          "label": "pribadi",
+          "ownerId": "2DCHXBQ2GE9ZQZNHFRF8",
+          "owner": {
+            "id": "2DCHXBQ2GE9ZQZNHFRF8",
+            "username": "Manarex",
+            "displayName": "Manarex",
+            "role": "partner"
+          },
+          "addedById": "2DCHXBQ2GE9ZQZNHFRF8",
+          "addedBy": {
+            "id": "2DCHXBQ2GE9ZQZNHFRF8",
+            "username": "Manarex",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-15T12:29:20.783Z"
         }
       ]
     },
