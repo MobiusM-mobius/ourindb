@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-16T06:59:06.497Z",
+  "updatedAt": "2026-11-16T06:59:48.544Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1973,7 +1973,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T11:57:43.409Z",
-      "updatedAt": "2026-11-16T06:59:06.497Z",
+      "updatedAt": "2026-11-16T06:59:48.544Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1990,7 +1990,27 @@
           "createdAt": "2026-11-05T12:39:34.427Z"
         }
       ],
-      "slots": []
+      "slots": [
+        {
+          "id": "SJ3W0FPC5SF7Q0CBMX0UD",
+          "number": "6283133535462",
+          "label": "Bot 1",
+          "ownerId": "11LTUGDV09RJEYEKHD7F",
+          "owner": {
+            "id": "11LTUGDV09RJEYEKHD7F",
+            "username": "kenzyryu",
+            "displayName": "kenzyryu",
+            "role": "partner"
+          },
+          "addedById": "11LTUGDV09RJEYEKHD7F",
+          "addedBy": {
+            "id": "11LTUGDV09RJEYEKHD7F",
+            "username": "kenzyryu",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-16T06:59:48.544Z"
+        }
+      ]
     },
     {
       "id": "ENJHXPDFRB9Y8BF0SSFP",
