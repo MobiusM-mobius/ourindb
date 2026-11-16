@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-16T07:09:14.324Z",
+  "updatedAt": "2026-11-16T08:08:43.667Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1668,7 +1668,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T14:21:36.990Z",
-      "updatedAt": "2026-11-13T12:42:08.052Z",
+      "updatedAt": "2026-11-16T08:08:43.667Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1696,6 +1696,25 @@
             "role": "reseller"
           },
           "createdAt": "2026-11-09T12:44:35.978Z"
+        },
+        {
+          "id": "S71BQ9XJ0L78MLQCKKXAQ",
+          "number": "6285729626939",
+          "label": "Buyer",
+          "ownerId": "EEF6549K2PXNLAD36PCM",
+          "owner": {
+            "id": "EEF6549K2PXNLAD36PCM",
+            "username": "SayClooc",
+            "displayName": "SayClooc",
+            "role": "reseller"
+          },
+          "addedById": "EEF6549K2PXNLAD36PCM",
+          "addedBy": {
+            "id": "EEF6549K2PXNLAD36PCM",
+            "username": "SayClooc",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-16T08:08:43.667Z"
         }
       ]
     },
