@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-17T10:41:02.459Z",
+  "updatedAt": "2026-11-17T10:41:28.238Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -1683,7 +1683,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-04T13:19:55.928Z",
-      "updatedAt": "2026-11-17T10:41:02.459Z",
+      "updatedAt": "2026-11-17T10:41:28.238Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -1692,7 +1692,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "STRTQ27ETD9HLA8J9GPBE",
+          "number": "6285122532492",
+          "label": "Bot",
+          "ownerId": "FQ8RJGQB69VVK2TFBMBC",
+          "owner": {
+            "id": "FQ8RJGQB69VVK2TFBMBC",
+            "username": "redeku",
+            "displayName": "redeku",
+            "role": "partner"
+          },
+          "addedById": "FQ8RJGQB69VVK2TFBMBC",
+          "addedBy": {
+            "id": "FQ8RJGQB69VVK2TFBMBC",
+            "username": "redeku",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-17T10:41:28.238Z"
+        }
+      ]
     },
     {
       "id": "EEF6549K2PXNLAD36PCM",
