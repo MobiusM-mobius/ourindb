@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-18T05:16:51.307Z",
+  "updatedAt": "2026-11-18T05:17:44.622Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2125,7 +2125,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T11:57:43.409Z",
-      "updatedAt": "2026-11-18T05:16:51.307Z",
+      "updatedAt": "2026-11-18T05:17:44.622Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2161,6 +2161,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-18T05:16:51.307Z"
+        },
+        {
+          "id": "SLLTBXHNJDXVHEHGQZ39P",
+          "number": "6288305010286",
+          "label": "FULLUP OURIN",
+          "ownerId": "11LTUGDV09RJEYEKHD7F",
+          "owner": {
+            "id": "11LTUGDV09RJEYEKHD7F",
+            "username": "kenzyryu",
+            "displayName": "kenzyryu",
+            "role": "partner"
+          },
+          "addedById": "11LTUGDV09RJEYEKHD7F",
+          "addedBy": {
+            "id": "11LTUGDV09RJEYEKHD7F",
+            "username": "kenzyryu",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-18T05:17:44.622Z"
         }
       ]
     },
