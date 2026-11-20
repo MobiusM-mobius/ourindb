@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-20T17:18:58.795Z",
+  "updatedAt": "2026-11-20T17:42:27.823Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2772,7 +2772,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-20T14:06:29.585Z",
-      "updatedAt": "2026-11-20T14:06:29.585Z",
+      "updatedAt": "2026-11-20T17:42:27.823Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2781,7 +2781,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SNYL3RKPDMVD516Q7LZJ9",
+          "number": "085713598265",
+          "label": "Wa 1",
+          "ownerId": "MPYMFAB7UJJ87HE459SB",
+          "owner": {
+            "id": "MPYMFAB7UJJ87HE459SB",
+            "username": "yogijb",
+            "displayName": "yogijb",
+            "role": "reseller"
+          },
+          "addedById": "MPYMFAB7UJJ87HE459SB",
+          "addedBy": {
+            "id": "MPYMFAB7UJJ87HE459SB",
+            "username": "yogijb",
+            "role": "reseller"
+          },
+          "createdAt": "2026-11-20T17:42:27.823Z"
+        }
+      ]
     }
   ]
 }
