@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-23T15:50:03.838Z",
+  "updatedAt": "2026-11-23T23:55:46.883Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -552,7 +552,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T11:41:03.785Z",
-      "updatedAt": "2026-11-23T06:50:03.554Z",
+      "updatedAt": "2026-11-23T23:55:46.883Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -580,25 +580,6 @@
             "role": "partner"
           },
           "createdAt": "2026-11-22T21:58:00.546Z"
-        },
-        {
-          "id": "S47JNXRTNZ0TBDY226RN4",
-          "number": "6285189952782",
-          "label": "nokos 2",
-          "ownerId": "1Q56X3W7VT1RK6DKZQJ6",
-          "owner": {
-            "id": "1Q56X3W7VT1RK6DKZQJ6",
-            "username": "nopal",
-            "displayName": "Nopal partner",
-            "role": "partner"
-          },
-          "addedById": "1Q56X3W7VT1RK6DKZQJ6",
-          "addedBy": {
-            "id": "1Q56X3W7VT1RK6DKZQJ6",
-            "username": "nopal",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-23T06:50:03.554Z"
         }
       ]
     },
