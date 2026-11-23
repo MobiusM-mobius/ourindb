@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-23T06:50:03.554Z",
+  "updatedAt": "2026-11-23T15:50:03.838Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2266,7 +2266,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-06T06:29:59.679Z",
-      "updatedAt": "2026-11-09T06:51:19.774Z",
+      "updatedAt": "2026-11-23T15:50:03.838Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2294,6 +2294,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-09T06:51:19.774Z"
+        },
+        {
+          "id": "S8V4N33591GFCD63BUH4G",
+          "number": "6285212808588",
+          "label": "iPhone API",
+          "ownerId": "PC9048S2R1T74UWENW7X",
+          "owner": {
+            "id": "PC9048S2R1T74UWENW7X",
+            "username": "Rapxourin",
+            "displayName": "Rapxourin",
+            "role": "partner"
+          },
+          "addedById": "PC9048S2R1T74UWENW7X",
+          "addedBy": {
+            "id": "PC9048S2R1T74UWENW7X",
+            "username": "Rapxourin",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-23T15:50:03.838Z"
         }
       ]
     },
