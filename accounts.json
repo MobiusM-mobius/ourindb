@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-25T11:02:54.611Z",
+  "updatedAt": "2026-11-25T12:26:26.419Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2091,7 +2091,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T10:47:34.775Z",
-      "updatedAt": "2026-11-25T10:54:29.922Z",
+      "updatedAt": "2026-11-25T12:26:26.419Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2109,25 +2109,6 @@
         }
       ],
       "slots": [
-        {
-          "id": "SQA2MHX504VEV9MUYWUHZ",
-          "number": "6283138190166",
-          "label": "botnana1",
-          "ownerId": "8Q9ZQDFJVWQBJ1MFKWZA",
-          "owner": {
-            "id": "8Q9ZQDFJVWQBJ1MFKWZA",
-            "username": "nanawstore",
-            "displayName": "nanawstore",
-            "role": "partner"
-          },
-          "addedById": "8Q9ZQDFJVWQBJ1MFKWZA",
-          "addedBy": {
-            "id": "8Q9ZQDFJVWQBJ1MFKWZA",
-            "username": "nanawstore",
-            "role": "partner"
-          },
-          "createdAt": "2026-11-05T11:04:29.841Z"
-        },
         {
           "id": "SG9K3URG39SCWRMSASBD4",
           "number": "6285196451197",
