@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-23T23:55:46.883Z",
+  "updatedAt": "2026-11-25T07:12:57.698Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2011,7 +2011,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T10:30:58.463Z",
-      "updatedAt": "2026-11-05T10:34:42.858Z",
+      "updatedAt": "2026-11-25T07:12:57.698Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2039,6 +2039,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-05T10:34:42.858Z"
+        },
+        {
+          "id": "S8F6UQQRQ6JG15WK0EE7M",
+          "number": "083173398948",
+          "label": "Yazz bot",
+          "ownerId": "J940CUS7LBYNDSR355XV",
+          "owner": {
+            "id": "J940CUS7LBYNDSR355XV",
+            "username": "Yazz16",
+            "displayName": "Yazz16",
+            "role": "partner"
+          },
+          "addedById": "J940CUS7LBYNDSR355XV",
+          "addedBy": {
+            "id": "J940CUS7LBYNDSR355XV",
+            "username": "Yazz16",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-25T07:12:57.698Z"
         }
       ]
     },
