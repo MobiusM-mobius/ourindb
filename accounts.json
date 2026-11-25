@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-25T07:12:57.698Z",
+  "updatedAt": "2026-11-25T10:54:29.922Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2072,7 +2072,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-05T10:47:34.775Z",
-      "updatedAt": "2026-11-12T12:53:33.352Z",
+      "updatedAt": "2026-11-25T10:54:29.922Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2080,7 +2080,15 @@
         "displayName": "Developer",
         "role": "developer"
       },
-      "children": [],
+      "children": [
+        {
+          "id": "DJ023HNZATY4Z19GLKYU",
+          "username": "luis",
+          "displayName": "luis",
+          "role": "user",
+          "createdAt": "2026-11-25T10:54:29.922Z"
+        }
+      ],
       "slots": [
         {
           "id": "SQA2MHX504VEV9MUYWUHZ",
@@ -2791,6 +2799,28 @@
           "createdAt": "2026-11-20T17:42:27.823Z"
         }
       ]
+    },
+    {
+      "id": "DJ023HNZATY4Z19GLKYU",
+      "username": "luis",
+      "displayName": "luis",
+      "role": "user",
+      "passwordHash": "scrypt$16384$8$1$3647b35408ea1170fa211e06a5a4bef9$5a78535f605b86cc4a1cc84b4ab98d969098c1097d5819a4f46888fdd3059e5853a30f01a8fc51b02abd95d5db88193ab4d32871d65cbdd3805ce039db776fbd",
+      "status": "active",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "bannerType": "",
+      "createdAt": "2026-11-25T10:54:29.922Z",
+      "updatedAt": "2026-11-25T10:54:29.922Z",
+      "createdById": "8Q9ZQDFJVWQBJ1MFKWZA",
+      "createdBy": {
+        "id": "8Q9ZQDFJVWQBJ1MFKWZA",
+        "username": "nanawstore",
+        "displayName": "nanawstore",
+        "role": "partner"
+      },
+      "children": [],
+      "slots": []
     }
   ]
 }
