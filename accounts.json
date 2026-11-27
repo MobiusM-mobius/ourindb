@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-27T08:41:05.828Z",
+  "updatedAt": "2026-11-27T08:41:21.121Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -571,7 +571,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-01T11:41:03.785Z",
-      "updatedAt": "2026-11-27T08:41:05.828Z",
+      "updatedAt": "2026-11-27T08:41:21.121Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -580,7 +580,27 @@
         "role": "developer"
       },
       "children": [],
-      "slots": []
+      "slots": [
+        {
+          "id": "SEQUX4R8LA0R7Y632F2FS",
+          "number": "62895637282718",
+          "label": "",
+          "ownerId": "1Q56X3W7VT1RK6DKZQJ6",
+          "owner": {
+            "id": "1Q56X3W7VT1RK6DKZQJ6",
+            "username": "nopal",
+            "displayName": "Nopal partner",
+            "role": "partner"
+          },
+          "addedById": "1Q56X3W7VT1RK6DKZQJ6",
+          "addedBy": {
+            "id": "1Q56X3W7VT1RK6DKZQJ6",
+            "username": "nopal",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-27T08:41:21.121Z"
+        }
+      ]
     },
     {
       "id": "LW6X3UZF1WMY2DATDCNU",
