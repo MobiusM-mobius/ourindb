@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-28T05:41:57.940Z",
+  "updatedAt": "2026-11-28T10:14:12.445Z",
   "root": {
     "avatarUrl": "",
     "bannerUrl": "",
@@ -2699,7 +2699,7 @@
       "bannerUrl": "",
       "bannerType": "",
       "createdAt": "2026-11-15T09:11:11.726Z",
-      "updatedAt": "2026-11-28T01:39:39.358Z",
+      "updatedAt": "2026-11-28T10:14:12.445Z",
       "createdById": "ROOTDEVELOPER000001",
       "createdBy": {
         "id": "ROOTDEVELOPER000001",
@@ -2784,6 +2784,25 @@
             "role": "partner"
           },
           "createdAt": "2026-11-28T01:39:39.358Z"
+        },
+        {
+          "id": "SP4780NGXB6TVC9LSHCPT",
+          "number": "19028009442",
+          "label": "",
+          "ownerId": "2DCHXBQ2GE9ZQZNHFRF8",
+          "owner": {
+            "id": "2DCHXBQ2GE9ZQZNHFRF8",
+            "username": "Manarex",
+            "displayName": "Manarex",
+            "role": "partner"
+          },
+          "addedById": "2DCHXBQ2GE9ZQZNHFRF8",
+          "addedBy": {
+            "id": "2DCHXBQ2GE9ZQZNHFRF8",
+            "username": "Manarex",
+            "role": "partner"
+          },
+          "createdAt": "2026-11-28T10:14:12.445Z"
         }
       ]
     },
